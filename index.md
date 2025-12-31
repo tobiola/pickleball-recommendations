@@ -12,13 +12,13 @@ Curated gear and league recommendations based on several paddle reviewers and ou
 ## 🏓 Paddles
 
 > **Summary:** 
-> The **Bread & Butter Loco** is our top paddle pick of **2025** with elite power with reliable control. 
+> The **Honolulu J6CR** is our top paddle pick with elite power and control. 
 > Below are additional strong options at different price points.
 
 | Paddle | Price | Summary | Link |
 |------|------|---------------|------|
+| **Honolulu J6CR** | $175.50 <br>*(with code **Ola**)* | Best paddle in the market · Top-tier power & control · *Tobi’s current paddle* | [View Paddle](https://808pickle.com/products/j6cr) |
 | **🥇 Bread & Butter Loco** | $199 | Best paddle of 2025 · Top-tier power · Solid control | [View Paddle](https://www.bnbpickleball.com/collections/loco/products/loco-16mm-pickleball-paddle-standard) |
-| **Honolulu J6CR** | $175.50 <br>*(with code **Ola**)* | Top-tier power · Top-tier control · *Tobi’s current paddle* | [View Paddle](https://808pickle.com/products/j6cr) |
 | **Honolulu J6NF** | $175.50 <br>*(with code **Ola**)* | Elite control & spin | [View Paddle](https://808pickle.com/products/j6nf-pre-order) |
 | **Vatic Pro V-SOL** | $109.99 | Best budget paddle · Well-rounded performance | [View Paddle](https://vaticpro.com/products/v-sol-pro-16mm?variant=62511727935647) |
 
